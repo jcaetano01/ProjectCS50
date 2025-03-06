@@ -1,1 +1,1 @@
-pip install blessed
+Utilize o  seguinte código no terminal para o funcionamento do programa: pip install blessed
