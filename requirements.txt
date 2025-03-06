@@ -1,1 +1,1 @@
-Utilize o  seguinte código no terminal para o funcionamento do programa: pip install blessed
+pip install blessed
